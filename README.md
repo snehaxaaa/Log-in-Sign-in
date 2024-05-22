@@ -29,8 +29,8 @@ We welcome contributions to enhance the project. If you have suggestions or impr
 <h1>Contact</h1>
 If you have any questions or feedback, please feel free to reach out:
 
-GitHub: snehaxaaa<br>
-Email: snehakachare.2004@gmail.com
+<b>GitHub: snehaxaaa<br></b>
+<b>Email: snehakachare.2004@gmail.com</b>
 <br><br>
 
 https://github.com/snehaxaaa/Log-in-Sign-in/assets/146460728/3d8f96a4-9f96-464f-a422-59911c2626f8
